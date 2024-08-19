@@ -1,3 +1,7 @@
 # MY-WORK
-Power BI Project: Data Visualization and Analysis
-Cleaned and transformed data using Power Query, created advanced visualizations including decomposition trees and Key Influencer AI visuals, applied DAX for calculations, and developed interactive dashboards for data-driven insights.
+Data Analytics Portfolio: Power BI, SQL, Python, and Tableau
+Showcasing projects across:
+Power BI: Data cleaning, advanced visuals, DAX, interactive dashboards.
+SQL: Database design, complex queries, data analysis.
+Python: Data analysis, visualization, machine learning.
+Tableau: Interactive reports, business summaries, sales analysis.
